@@ -52,3 +52,4 @@ The system returns:
 The system ranks movies based on **cosine similarity** using **TF-IDF**.
 
 ---
+VIDEO DEMO: 
